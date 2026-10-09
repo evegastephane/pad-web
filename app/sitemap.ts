@@ -7,6 +7,7 @@ const BASE = "https://www.pad.cm";
 const pages = [
   "",
   "/le-pad/presentation",
+  "/le-pad/mot-du-directeur",
   "/le-pad/histoire",
   "/le-pad/gouvernance",
   "/le-pad/certifications",

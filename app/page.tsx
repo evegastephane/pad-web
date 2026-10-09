@@ -107,6 +107,7 @@ export default async function HomePage() {
             </ul>
             <div className="mt-8 flex flex-wrap gap-x-8 gap-y-3">
               <MoreLink href="/le-pad/presentation">Présentation du PAD</MoreLink>
+              <MoreLink href="/le-pad/mot-du-directeur">Mot du Directeur général</MoreLink>
               <MoreLink href="/le-pad/gouvernance">Gouvernance</MoreLink>
             </div>
           </div>

@@ -66,6 +66,7 @@ export const navigation: NavItem[] = [
     href: "/le-pad/presentation",
     children: [
       { label: "Présentation", href: "/le-pad/presentation", note: "Missions, vision, valeurs" },
+      { label: "Mot du Directeur général", href: "/le-pad/mot-du-directeur", note: "Cyrus Ngo’o" },
       { label: "Histoire", href: "/le-pad/histoire", note: "De 1881 à aujourd’hui" },
       { label: "Gouvernance", href: "/le-pad/gouvernance", note: "Direction et conseil" },
       { label: "Certifications", href: "/le-pad/certifications", note: "ISO 9001, ISO 26000" },
